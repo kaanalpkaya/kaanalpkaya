@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaanalpkaya
+- 👀 I’m interested in automobiles
+- 🌱 I’m currently learning ardunio and matlab
+- 📫 How to reach me kkaya211@posta.paü.edu.tr
